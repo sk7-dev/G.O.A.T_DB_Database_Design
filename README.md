@@ -1,4 +1,4 @@
-# G.O.A.T DB — Sports Database Management System
+# G.O.A.T DB - Sports Database Management System
 
 An Oracle SQL database for tracking football matches, teams, players, and tournaments. 
 
