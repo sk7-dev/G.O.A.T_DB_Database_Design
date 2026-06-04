@@ -70,13 +70,13 @@ Covers the **2023–24 season** across five competitions:
 12 English clubs seeded (Man United, Man City, Chelsea, Arsenal, Liverpool, Tottenham, and more), with real players, staff, venues, and match officials.
 
 ### Tournament Summary
-![Tournament Summary Report](tournament-summary-report.png)
+![Tournament Summary Report](SQL_Developer/tournament-summary-report.png)
 
 ### Team Performance
-![Team Performance Report](team-performance-report.png)
+![Team Performance Report](SQL_Developer/team-performance-report.png)
 
 ### Top 10 Scorers
-![Top 10 Scorers](top-10-scorers.png)
+![Top 10 Scorers](SQL_Developer/top-10-scorers.png)
 
 ---
 
@@ -86,20 +86,7 @@ Covers the **2023–24 season** across five competitions:
 |---|---|
 | `QUERIES.txt` | Main development script — schema, inserts, triggers, views, security |
 | `SQL QUERIES.txt` | Oracle Data Pump export — full DDL with constraints, indexes, and data |
-| `IS680 Sec 01 Group Project.docx` | Project report and documentation |
+
 
 ---
-
-## Setup
-
-Requires an **Oracle Database** instance. Run against your schema:
-
-```sql
--- 1. Create tables
--- 2. Create triggers
--- 3. Create views
--- 4. Insert data
-@QUERIES.txt
-```
-
-Or import the full dump via Oracle SQL Developer / Data Pump using `SQL QUERIES.txt`.
+ 
