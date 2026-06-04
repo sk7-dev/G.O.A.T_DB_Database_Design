@@ -54,7 +54,7 @@ Five user roles with scoped privileges on the `MATCHES` table:
 | `data_mod_user` | INSERT, UPDATE, DELETE |
 | `limited_view_user` | SELECT |
 
-![User Privileges](user-privileges.png)
+![User Privileges](SQL_Developer/user-privileges.png)
 
 ---
 
